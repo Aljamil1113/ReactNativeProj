@@ -13,3 +13,6 @@ Explore React Native
 
 # Icon Listing 
 github.com/expo/vector-icons
+
+# AXIOS for HTTP Request
+npm install axios
