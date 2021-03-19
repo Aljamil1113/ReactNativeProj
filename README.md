@@ -16,3 +16,10 @@ github.com/expo/vector-icons
 
 # AXIOS for HTTP Request
 npm install axios
+
+
+# JSON SERVER
+npmjs.com/package/json-server
+--npm init
+--npm install json-server ngrok\
+--TO RUN: npm run db THEN npm run tunnel
