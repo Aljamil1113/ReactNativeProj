@@ -23,3 +23,9 @@ npmjs.com/package/json-server
 --npm init
 --npm install json-server ngrok\
 --TO RUN: npm run db THEN npm run tunnel
+
+# Setup EXPRESS API
+npm init -y
+npm install bcrypt express jsonwebtoken mongoose nodemon
+# TO RUN
+node src/index.js
