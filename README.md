@@ -1,6 +1,13 @@
 # ReactNativeProj
 Explore React Native
 
+#Restore packages
+npm install
+npm install expo-cli --global
+
+#TO RUN
+npm start
+
 # Create New Project
 -npx expo-cli init "projectname" --npm
 
